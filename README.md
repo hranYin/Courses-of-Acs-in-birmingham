@@ -2,6 +2,7 @@
 recording the study live in Birmingham, especially the courses content and paper reading and competitions 
 
 including:
+
 (1) courses of Autumn Term
      1.Networks 
      2.Machine learning 
