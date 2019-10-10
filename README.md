@@ -1,5 +1,5 @@
 # Courses-of-Acs-in-birmingham
-recording the study live in Birmingham, especially the courses content and paper reading and competitions 
+recording the study in Birmingham, especially the courses content and paper reading and competitions 
 
 including:
 
